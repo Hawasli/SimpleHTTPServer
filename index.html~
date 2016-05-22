@@ -1,0 +1,17 @@
+<html>
+<meta charset="UTF-8">
+<head>
+	<title>SimpleHTTPServer</title>
+</head>
+<body>
+
+	<h1>Python Simple HTTP server for testing POST and PUT submission</h1>
+	<p>SimpleHTTPServer is a lightweight web server based in python and customized to handle only PUT and POST methods</p>
+	<p>To prove that they work, you can execute either of the following links:</p>
+	
+	<ul>
+		<li>To a <a href="about.html">About us</a>.
+		<li>To a <a href="form.html">Simple form</a>.
+	</ul>
+</body>
+</html>

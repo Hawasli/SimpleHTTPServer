@@ -1,0 +1,27 @@
+<html>
+<meta charset="UTF-8">
+  <head>
+    <title>SimpleHTTPServer</title>
+  </head>
+  <body bgcolor=white>
+
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <h1>Course information</h1>
+        </td>
+      </tr>
+    </table>
+<form>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
+</form>
+
+    <ul>
+      <li>To a <a href="index.html">Home</a>.
+    </ul>
+
+  </body>
+</html>

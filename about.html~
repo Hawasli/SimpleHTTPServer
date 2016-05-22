@@ -1,0 +1,37 @@
+<html>
+<meta charset="UTF-8">
+  <head>
+    <title>SimpleHTTPServer</title>
+  </head>
+  <body bgcolor=white>
+
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <h1>Course information</h1>
+        </td>
+      </tr>
+    </table>
+
+	<h2>Courese name</h2>
+	<p>IK2220 Software Defined Networking (SDN) and Network Functions Virtualization (NFV)</p>
+
+	<h2>Teacher</h2>
+	<p>Dejan Kostic <dmk@kth.se></p>
+	<p>Markus Hidell <mahidell@kth.se></p>
+	<p>Peter Sjödin <psj@kth.se></p>
+
+
+	<h2>Team members</h2>
+	<p>Alfonso</p>
+	<p>Ahmad</p>
+	<p>Mowaffac</p>
+	<p>Anas</p>
+
+    <ul>
+      <li>To a <a href="index.html">Home</a>.
+	<li>To a <a href="form.html">Simple form</a>.
+    </ul>
+
+  </body>
+</html>
